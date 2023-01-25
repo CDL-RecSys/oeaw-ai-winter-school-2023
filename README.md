@@ -1,1 +1,1 @@
-# oeaw-ai-winter-school-2023
+# ÖAW AI Winter School 2023
